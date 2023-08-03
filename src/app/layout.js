@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import './globals.css'
-import Head from 'next/head'
 import Script from 'next/script'
 import { Inter } from 'next/font/google'
 
